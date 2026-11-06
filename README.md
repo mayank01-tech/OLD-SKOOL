@@ -20,17 +20,16 @@ Old Skool Gym is a frontend web development project designed to showcase a gym's
 | HTML5 | Website structure |
 | CSS3 | Styling and layouts |
 | JavaScript | Basic hamburger menu functionality |
-
 ## 📂 Project Structure
 
 ```text
 Old-Skool-Gym/
 │
 ├── index.html
+├── contact.html
 ├── style.css
 ├── script.js
 ├── images/
-│   └── preview.png
 └── README.md
 ```
 
